@@ -35,7 +35,7 @@ To set up **ByteBazar** on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yuvrajsingh833/ByteBazar
+   git clone https://github.com/namansingh1111/Byte_Bazar
    ```
 2. **Navigate to the project directory for frontend**:
    ```bash
